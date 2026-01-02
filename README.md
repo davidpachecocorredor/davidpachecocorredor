@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! soy David Orlando Pacheco Corredor
+**Economista & Especialista en Finanzas**
+Analista de datos | Business intellegence | Analisis Financiero | Econometría |
+## Estoy trabajando en 
+proyectos de analisis de datos, Bi , Ciencia de datos para toma de deciciones
 
-<!--
-**davidpachecocorredor/davidpachecocorredor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Habilidades técnicas
 
-Here are some ideas to get you started:
+| Lenguajes | BI/Visualización | Datos |
+|-----------|------------------|-------|
+| Python    | Power BI         | SQL   |
+| Excel  | DAX / Modelado | Análisis estadístico |
+| Stata | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Contáctame
+
+- LinkedIn: https://www.linkedin.com/in/david-orlando-pacheco-corredor-1193812a6
+- Portafolio web: https://davidpachecocorredor.github.io
+- GitHub: https://github.com/davidpachecocorredor
+
+##  Actualmente
+
+Me encuentro **buscando oportunidades como Data Analyst, Financial Data Analyst o Business Analyst** para aplicar mis conocimientos y generar impacto real con datos.
