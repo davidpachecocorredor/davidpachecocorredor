@@ -13,10 +13,9 @@ proyectos de analisis de datos, Bi , Ciencia de datos para toma de deciciones
 | Stata | 
 
 ##  Contáctame
-
-- LinkedIn: https://www.linkedin.com/in/david-orlando-pacheco-corredor-1193812a6
-- Portafolio web: https://davidpachecocorredor.github.io
-- GitHub: https://github.com/davidpachecocorredor
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-0b3c5d?style=for-the-badge&logo=github)](https://davidpachecocorredor.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Pacheco-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-orlando-pacheco-corredor-1193812a6)
+[![GitHub](https://img.shields.io/badge/GitHub-davidpachecocorredor-181717?style=for-the-badge&logo=github)](https://github.com/davidpachecocorredor)
 
 ##  Actualmente
 
